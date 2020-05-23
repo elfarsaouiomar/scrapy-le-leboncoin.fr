@@ -1,0 +1,15 @@
+X-Datadome: protected
+Charset: utf-8
+Content-Security-Policy: frame-ancestors *.leboncoin.fr; report-uri https://api.leboncoin.fr/api/csp-report/v1/report/;
+Access-Control-Expose-Headers: x-dd-b
+Set-Cookie: datadome=UPyJdz68aOeTaoqoeVJLTyj72jcrSuG-sjA2PBJQp4wnwW0hMRQaedQiwi4vhVGeeJM-5R7GtgVjxwESS2t~qF0Ym5KoeKvtrhFEd3rM~J; Max-Age=31536000; Domain=.leboncoin.fr; Path=/; SameSite=Lax
+Strict-Transport-Security: max-age=15768000
+X-Datadome-Cid: AHrlqAAAAAMAc4uGbNElyJEAaUKBNA==
+Content-Security-Policy-Report-Only: object-src *.leboncoin.fr; frame-ancestors *.leboncoin.fr; report-uri https://api.leboncoin.fr/api/csp-report/v1/report/;
+Pragma: no-cache
+Cache-Control: max-age=0, private, no-cache, no-store, must-revalidate
+Date: Sat, 23 May 2020 06:13:33 GMT
+Access-Control-Allow-Credentials: true
+Content-Type: text/html
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
