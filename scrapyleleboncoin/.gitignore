@@ -1,0 +1,25 @@
+# dirs
+/.vscode
+.vscode
+/.idea
+.idea
+.scrapy
+/.scrapy
+# end dirs
+
+# binary files
+*.xml
+*.pyc
+*.log
+*.json
+*.csv
+*.jpeg
+*.png
+*.iml
+# binary files
+
+# conf file
+*.ipynb*
+.env
+*.conf
+#end conf file
